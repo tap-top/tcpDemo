@@ -1,4 +1,4 @@
-package com.zxy.product.mom.barcode.netty;
+package org.tww.netty;
 
 import io.netty.channel.ChannelHandlerContext;
 

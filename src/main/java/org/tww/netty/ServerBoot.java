@@ -1,4 +1,4 @@
-package com.zxy.product.mom.barcode.netty;
+package org.tww.netty;
 
 import com.zxy.mom.sdk.common.util.JsonUtil;
 import io.netty.bootstrap.ServerBootstrap;

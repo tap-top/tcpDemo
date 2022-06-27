@@ -1,4 +1,4 @@
-package com.zxy.product.mom.barcode.netty;
+package org.tww.netty;
 
 import com.zxy.mom.sdk.common.util.JsonUtil;
 import com.zxy.product.mom.barcode.entity.Message;

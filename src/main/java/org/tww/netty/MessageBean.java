@@ -1,4 +1,4 @@
-package com.zxy.product.mom.barcode.netty;
+package org.tww.netty;
 
 public class MessageBean {
     private int type;

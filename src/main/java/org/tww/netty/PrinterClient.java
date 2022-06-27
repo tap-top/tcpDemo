@@ -1,4 +1,4 @@
-package com.zxy.product.mom.barcode.netty;
+package org.tww.netty;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.Channel;

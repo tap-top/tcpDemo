@@ -1,8 +1,7 @@
-package com.zxy.product.mom.barcode.netty;
+package org.tww.netty;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.SmartInitializingSingleton;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 
 /**
